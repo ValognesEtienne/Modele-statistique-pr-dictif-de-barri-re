@@ -1,5 +1,5 @@
-# Modele-statistique-predictif-de-barriere
-Modele statistique prédictif de barrière pour modélisation de réseau écologique 
+# Modele statistique predictif de barriere
+Modele statistique prédictif de barrière pour améliorer la modélisation de réseau écologique 
 
 Ce travail nécessite de lire le mémoire intitulé "Écologie urbaine du hérisson : Méthodologie de l'étude des barrières dans la modélisation du réseau écologique pour limiter la fragmentation des habitats du hérisson à Caen" pour comprendre davantage la méthodologie mise en place et les objectifs de ce modèle. 
 
